@@ -1,0 +1,6 @@
+{
+  "name": "HR 灵动助手 - 抽奖与随机分组工具",
+  "description": "专为HR与团队管理者设计的名单抽奖与智能分组工具，支持CSV名单导入、不重复/重复随机抽签大屏动画、自定义组数与组员上限分组。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
