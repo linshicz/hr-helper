@@ -1,4 +1,4 @@
-import { Participant, GroupConfig, GroupResult } from '../types/index.ts';
+import type { Participant, GroupConfig, GroupResult } from '../types/index.ts';
 import { TEAM_NAMES } from '../data/presets.ts';
 
 // Fisher-Yates shuffle

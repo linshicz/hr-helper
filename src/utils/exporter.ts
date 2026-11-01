@@ -1,4 +1,4 @@
-import { Participant, WinnerRecord, GroupResult } from '../types/index.ts';
+import type { Participant, WinnerRecord, GroupResult } from '../types/index.ts';
 
 export function downloadCSV(filename: string, csvContent: string) {
   // Add UTF-8 BOM so Microsoft Excel opens Chinese characters without garbled text

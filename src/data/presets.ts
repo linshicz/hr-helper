@@ -1,4 +1,4 @@
-import { Participant, Prize } from '../types/index.ts';
+import type { Participant, Prize } from '../types/index.ts';
 
 export const AVATAR_COLORS = [
   '#4F46E5', '#2563EB', '#0D9488', '#059669', '#D97706',
